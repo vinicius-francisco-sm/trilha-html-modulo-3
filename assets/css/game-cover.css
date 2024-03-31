@@ -1,0 +1,17 @@
+#intro-section {
+    display: flex;
+}
+#game-cover img {
+    width: 270px;
+}
+#game-cover figcaption {
+    background-color: #E8E8E8;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+#section-text-content {
+    display: block;
+}
