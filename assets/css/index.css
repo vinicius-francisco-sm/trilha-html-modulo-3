@@ -1,0 +1,12 @@
+.wiki-table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+th {
+    background-color: #eaecf0;
+    text-align: center;
+}
+th, td {
+    padding: 0.2em 0.4em;
+}
